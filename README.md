@@ -11,4 +11,4 @@
 
 ## Live Site
 
-[beermonkey-se.netlify.app/](https://beermonkey-se.netlify.app/)
+[beermonkey.falric.dev](https://https://beermonkey.falric.dev)
